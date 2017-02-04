@@ -1,0 +1,21 @@
+html,
+body{
+
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image:url("/img/index-bg.jpg") no-repeat ;
+	background-size:  auto;	
+}
+
+.blokbg1{
+	background-image: url(("/img/index-bg.jpg");
+background-repeat: no-repeat;
+background-attachment: scroll;
+}
+
+.main-header{
+	min-heigth: 70px;
+}
